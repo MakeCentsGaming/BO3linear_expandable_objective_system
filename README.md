@@ -12,8 +12,8 @@ Add more as needed
 Add to top of mapname.gsc
 #using scripts\zm\objectives\objectives_setup;
 
-Add to zone file
-scriptparsetree,scripts/zm/objectives/objectives_setup.gsc
-scriptparsetree,scripts/zm/objectives/objectives_1.gsc
-scriptparsetree,scripts/zm/objectives/objectives_2.gsc
-//scriptparsetree,scripts/zm/objectives/objectives_3.gsc //more as needed
+Add to zone file  
+scriptparsetree,scripts/zm/objectives/objectives_setup.gsc  
+scriptparsetree,scripts/zm/objectives/objectives_1.gsc  
+scriptparsetree,scripts/zm/objectives/objectives_2.gsc  
+//scriptparsetree,scripts/zm/objectives/objectives_3.gsc //more as needed  
