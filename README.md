@@ -9,7 +9,7 @@ Edit setup for order
 Edit each numbered one for your objectives
 Add more as needed
 
-Add to top of mapname.gsc
+Add to top of mapname.gsc  
 #using scripts\zm\objectives\objectives_setup;
 
 Add to zone file  
